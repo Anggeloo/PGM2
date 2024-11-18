@@ -5,8 +5,6 @@
 PGM2 is a basic HTTP server implemented in Ruby using the WEBrick library. The server responds with the message:
 “Hello World with Ruby, I am Anggelo :3!” on the main page.
 
-You can see it in action here: https://pgm5-1.onrender.com
-
 ## Note: This project currently does not include a Dockerfile. However, it can easily be adapted to run in a Docker container if needed.
 
 ## 🚀 Features.
