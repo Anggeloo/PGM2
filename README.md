@@ -1,5 +1,7 @@
 ## PGM2 - Basic HTTP Server in Ruby
+
 ## 📖 Description
+
 PGM2 is a basic HTTP server implemented in Ruby using the WEBrick library. The server responds with the message:
 “Hello World with Ruby, I am Anggelo :3!” on the main page.
 
@@ -20,23 +22,23 @@ Ruby (version 2.6 or higher).
 ## ⚙️ Installation and execution
 
 1. Clone this repository on your local machine:
-```
+```bash
 git clone https://github.com/Anggeloo/PGM2.git
 ```
 
 2. Navigate to the project directory:
-```
+```bash
 cd PGM2
 ```
 
 3. Run the program:
 
-```
+```bash
 ruby PGM2.rb
 ```
 4. Open your web browser and visit the URL:
 
-```
+```bash
 http://localhost:8080
 ```
 
@@ -49,11 +51,9 @@ https://pgm5-1.onrender.com
 
 ## 📋 Additional usage.
 
--To stop the local server, press Ctrl+C in the terminal.
+- To stop the local server, press Ctrl+C in the terminal.
 
 ## 🗂️ Project structure
 
 - PGM2.rb: Main source code that implements the HTTP server.
 - README.md: This documentation file.
-
-Translated with DeepL.com (free version)
